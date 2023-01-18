@@ -9,7 +9,7 @@ Seja bem-vindo(a) ao meu GitHub.
 .
 
 <div>
-(https://github-readme-stats.vercel.app/apiNogueiraLorenaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/apiNogueiraLorenaanuraghazra)](https://github.com/anuraghazra/github-readme-stats
 </div>
  
   <div style="display: inline_block"> <br>
