@@ -10,10 +10,8 @@ Seja bem-vindo(a) ao meu GitHub.
 
 <div>
    
-        <a href="https://https://github.com/NogueiraLorena">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NogueiraLorena&show_icons-true&theme-radical&include_all_commits=true&ſcount_private-true}"/>
+     
 
-<img height="180" src="https://github-reader-stats.vercel.app/api/top-langs/?username-NogueiraLorena&layout-compact&langs_count=16&theme-radical"/>
 </div>
 
  
