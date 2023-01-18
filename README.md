@@ -14,10 +14,10 @@ Seja bem-vindo(a) ao meu GitHub.
  
   <div style="display: inline_block"> <br>
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  <img align="center" alt="imgHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="imgCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="imgJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="meuRosto" height="150" style="border-radius:50px;" src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-19/325821234_131153313158789_3998636718304340440_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=1PlKMd61xvMAX9Z0W6W&edm=ALwy07oBAAAA&ccb=7-5&oh=00_AfAL7kVaeVjwXj5xBqFtkWeXBDPCSC8XgYDyp6ZGkyg2RQ&oe=63CD9A86&_nc_sid=261c40">
 </div>
 
 
