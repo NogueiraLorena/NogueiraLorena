@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá 👋 Meu nome é Lorena Nogueira.
+Seja bem-vindo(a) ao meu GitHub.  
 
-<!--
-**NogueiraLorena/NogueiraLorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📫 Contate-me, de preferência, pelo meu email. 
+- 🔭 Atualmente estou trabalhando como freelancer.
+- 🌱 Estou matriculada em um curso sobre Desenvolvimento Front-end.
+- ⚡ Curiosidade: Sou formada em TI.
+.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiNogueiraLorenaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+ 
+  <div style="display: inline_block"> <br>
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+</div>
+
+
+
+
