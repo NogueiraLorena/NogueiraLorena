@@ -26,6 +26,11 @@ Seja bem-vindo(a) ao meu GitHub.
  <img align="right" alt="meuRosto" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/118185045?v=4">
 </div>
 
-
+##
+  <div>
+       <a href="https://www.instagram.com/lorenanogueira730/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/lorena-nogueira-4725aa243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     
+   </div>
 
 
