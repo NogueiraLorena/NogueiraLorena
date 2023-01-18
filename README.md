@@ -1,8 +1,8 @@
 ### Olá 👋 Meu nome é Lorena Nogueira.
 
 <div 
-   <a src="https://www.canva.com/design/DAFXND8Gy7Y/watch"></a>
-
+   
+<img align="center" alt="" width="180em" src="https://www.canva.com/design/DAFXND8Gy7Y/watch">
 </div>
 
 
