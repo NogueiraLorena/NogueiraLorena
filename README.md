@@ -9,8 +9,12 @@ Seja bem-vindo(a) ao meu GitHub.
 .
 
 <div>
-https://github-readme-stats.vercel.app/apiNogueiraLorenaanuraghazra)](https://github.com/anuraghazra/github-readme-stats
+   
+        <a href="https://beacons.ai/NogueiraLorena">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NogueiraLorena&show_icons-true&theme-dracula&include_all_commits=true&ſcount_private-true}"/>
+cing height="180" src="https://github-reader-stats.vercel.app/api/top-langs/?username-NogueiraLorena&layout-compact&langs_count=16&theme-radical"/>
 </div>
+
  
   <div style="display: inline_block"> <br>
   
