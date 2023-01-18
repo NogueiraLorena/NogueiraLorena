@@ -23,7 +23,7 @@ Seja bem-vindo(a) ao meu GitHub.
   <img align="center" alt="imgCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="imgJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
- <img align="right" alt="meuRosto" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/118185045?v=4">
+ <img align="right" alt="meuRosto" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEWEqGPAUg1oA/profile-displayphoto-shrink_200_200/0/1673913972137?e=1679529600&v=beta&t=28Qm3tsd4cfB9qi7iJkLPr1LPFqcGfrjkA2BKuBaL-A">
 </div>
 
 ##
