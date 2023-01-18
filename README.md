@@ -19,6 +19,10 @@ Seja Bem-vindo(a)!
  <img align="right" alt="meuRosto" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEWEqGPAUg1oA/profile-displayphoto-shrink_200_200/0/1673913972137?e=1679529600&v=beta&t=28Qm3tsd4cfB9qi7iJkLPr1LPFqcGfrjkA2BKuBaL-A">
 </div>
 
+
+
+
+
 ## Minhas redes Sociais:
   <div>
        <a href="https://www.instagram.com/lorenanogueira730/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
