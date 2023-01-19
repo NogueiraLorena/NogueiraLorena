@@ -1,7 +1,7 @@
 ### Olá 👋 Meu nome é Lorena Nogueira.
 
 
-Seja Bem-vindo(a)!
+<h1 style="color:#ff009d;">Seja Bem-vindo(a)!<h1/>
 
 - 🔭 Atualmente estou trabalhando como freelancer.
 - 🌱 Estou matriculada em um curso sobre Desenvolvimento Front-end.
