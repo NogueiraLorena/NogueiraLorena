@@ -1,7 +1,6 @@
 ### Olá 👋 Meu nome é Lorena Nogueira.
 
-
-<h1 style="color:#ff009d;">Seja Bem-vindo(a)!<h1/>
+Seja Bem-vindo(a)!
 
 - 🔭 Atualmente estou trabalhando como freelancer.
 - 🌱 Estou matriculada em um curso sobre Desenvolvimento Front-end.
@@ -25,6 +24,6 @@
        <a href="https://www.instagram.com/lorenanogueira730/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/lorena-nogueira-4725aa243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
-   </div>
+   
 
 
