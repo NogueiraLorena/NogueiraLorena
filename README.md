@@ -25,7 +25,7 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
 
 ## 📫 Contate-me:
   <div style="background: rgb(227,0,153);background: linear-gradient(90deg, rgba(227,0,153,1) 0%, rgba(128,25,193,1) 26%, rgba(0,58,245,1) 63%, rgba(0,109,189,1) 100%);">
-       <a href="https://www.instagram.com/lorenanogueira730/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+       <a href="https://www.instagram.com/lorenanogueira_oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/lorena-nogueira-4725aa243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
    
