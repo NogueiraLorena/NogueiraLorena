@@ -16,7 +16,7 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
   <img align="center" alt="imgCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="imgJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
- <img align="right" alt="o meu rosto" width="150" height="150" style="border-radius:50%;" src="https://media.licdn.com/dms/image/D4E03AQFNeYybXI657Q/profile-displayphoto-shrink_200_200/0/1674679275695?e=1680134400&v=beta&t=2W7h29PFe6igcQE0lSko4QtEn-HKkUvVvn8EaN0I1Qk"/>
+ <img align="right" alt="o meu rosto" height="150" style="border-radius:20%;" src="https://media.licdn.com/dms/image/D4E03AQFNeYybXI657Q/profile-displayphoto-shrink_200_200/0/1674679275695?e=1680134400&v=beta&t=2W7h29PFe6igcQE0lSko4QtEn-HKkUvVvn8EaN0I1Qk"/>
 </div>
 <br/>
 <br/>
