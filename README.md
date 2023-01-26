@@ -16,7 +16,7 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
   <img align="center" alt="imgCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="imgJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
- <img align="right" alt="meuRosto" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEWEqGPAUg1oA/profile-displayphoto-shrink_200_200/0/1673913972137?e=1679529600&v=beta&t=28Qm3tsd4cfB9qi7iJkLPr1LPFqcGfrjkA2BKuBaL-A">
+ <img align="right" alt="o meu rosto" width="150" height="150" style="border-radius:50%;" src="https://media.licdn.com/dms/image/D4E03AQFNeYybXI657Q/profile-displayphoto-shrink_200_200/0/1674679275695?e=1680134400&v=beta&t=2W7h29PFe6igcQE0lSko4QtEn-HKkUvVvn8EaN0I1Qk"/>
 </div>
 <br/>
 <br/>
@@ -24,11 +24,11 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
 <br/>
 
 ## 📫 Contate-me:
-  <div style="background: rgb(227,0,153);background: linear-gradient(90deg, rgba(227,0,153,1) 0%, rgba(128,25,193,1) 26%, rgba(0,58,245,1) 63%, rgba(0,109,189,1) 100%);">
+  <div>
        <a href="https://www.instagram.com/lorenanogueira_oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/lorena-nogueira-4725aa243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:bragalorena72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     
+   </div>  
    
 
 
