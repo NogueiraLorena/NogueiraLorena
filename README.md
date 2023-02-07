@@ -2,7 +2,7 @@
 
 Seja Bem-vindo(a)!
 
-- 🔭 Atualmente estou trabalhando como freelancer.
+- 🔭 Atualmente estou trabalhando como autônoma.
 - 🌱 Estou matriculada em um curso sobre Desenvolvimento Front-end.
 - ⚡ Curiosidade: Sou formada em TI.
 
