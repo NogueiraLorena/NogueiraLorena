@@ -28,7 +28,7 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
        <a href="https://www.instagram.com/lorena.nogueira.b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/lorenaN_oficial"><img src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/lorena-nogueira-4725aa243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:bragalorena72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:nogueiralorenadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    </div>  
    
 
