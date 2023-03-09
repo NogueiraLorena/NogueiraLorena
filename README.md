@@ -13,12 +13,12 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
 
 <br/>
 <br/>
-   <div style="background-color: #a292ff;">
+   <div>
         <img
          height="300"
-          width="500"
-          alt="image languages"
-          src="https://ni90ep.csb.app/imgs/program.png"
+          width="530"
+          alt="image dev and programing languages"
+          src="https://ni90ep.csb.app/imgs/imageDev.png"
         />
       </div>
 
