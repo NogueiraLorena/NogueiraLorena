@@ -1,4 +1,6 @@
 ### Olá 👋 Meu nome é Lorena Nogueira.
+ <img align="right" alt="o meu rosto" height="120" style="border-radius:50%;" src="https://media.licdn.com/dms/image/D4D03AQGOqUoXx2Rjtg/profile-displayphoto-shrink_200_200/0/1676328223716?e=1681948800&v=beta&t=bfuylm-K1pfZkT_ymQl7MJ4Ap4v4nVKU-CJc5QM7MNQ"/>
+</div>
 
 Seja Bem-vindo(a)!
 
@@ -9,13 +11,17 @@ Seja Bem-vindo(a)!
 Até o momento, eu estou usando o GitHub para documentar a minha progressão como desenvolvedora.<br>
 Os repositórios aqui são dos meus estudos e são de exercícios que eu já realizei.
 
- <div style="display: inline_block; background-color: #f1ebd3;">
-        <br />
-         <img style="border: solid black;" alt="languages" src="https://ni90ep.csb.app/theLan.png" />
+<br/>
+<br/>
+   <div style="background-color: #a292ff;">
+        <img
+         height="500"
+          width="880"
+          alt="image languages"
+          src="https://ni90ep.csb.app/imgs/program.png"
+        />
       </div>
- 
- <img align="right" alt="o meu rosto" height="120" style="border-radius:50%;" src="https://media.licdn.com/dms/image/D4D03AQGOqUoXx2Rjtg/profile-displayphoto-shrink_200_200/0/1676328223716?e=1681948800&v=beta&t=bfuylm-K1pfZkT_ymQl7MJ4Ap4v4nVKU-CJc5QM7MNQ"/>
-</div>
+
 <br/>
 <br/>
 
