@@ -16,7 +16,7 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
    <div style="background-color: #a292ff;">
         <img
          height="300"
-          width="480"
+          width="500"
           alt="image languages"
           src="https://ni90ep.csb.app/imgs/program.png"
         />
