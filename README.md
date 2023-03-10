@@ -1,5 +1,5 @@
 ### Olá 👋 Meu nome é Lorena Nogueira.
- <img align="right" alt="o meu rosto" height="120" style="border-radius:50%;" src="https://media.licdn.com/dms/image/D4D03AQGOqUoXx2Rjtg/profile-displayphoto-shrink_200_200/0/1676328223716?e=1681948800&v=beta&t=bfuylm-K1pfZkT_ymQl7MJ4Ap4v4nVKU-CJc5QM7MNQ"/>
+ <img align="right" alt="o meu rosto" height="130" style="border-radius:50% 50% 50% 50%;" src="https://scontent-gig2-1.xx.fbcdn.net/v/t39.30808-6/335070037_883578696274650_7011658285249860126_n.jpg?stp=dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGv8bMi5DF3Di26CD3FcwOVRvWDGpBfTURG9YMakF9NRCg8s7epIdPO5zOTqNNTnD0oFWEcYqHo06mSAbPDbLZM&_nc_ohc=fzvYoRtt6j4AX8au3o4&_nc_ht=scontent-gig2-1.xx&oh=00_AfAQisc5SNdfAyDgOlOc2iHnZgAt2xBkw_pAXrEYdOwVeQ&oe=640F2AC3"/>
 </div>
 
 Seja Bem-vindo(a)!
@@ -16,7 +16,7 @@ Os repositórios aqui são dos meus estudos e são de exercícios que eu já rea
    <div>
         <img
          height="300"
-          width="530"
+          width="540"
           alt="image dev and programing languages"
           src="https://ni90ep.csb.app/imgs/imageDev.png"
         />
