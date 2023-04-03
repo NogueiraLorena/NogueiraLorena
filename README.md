@@ -20,10 +20,11 @@
  Por enquanto, eu estou usando o GitHub para documentar a minha progressão como desenvolvedora.<br/>
 Os repositórios aqui são dos meus estudos e são de exercícios que eu já realizei. Planejo aprimorar cada um deles para que virem projetos bem completos, otimizados e limpos. Tenho um diploma de Técnica em Informática e estou matriculada num curso de Desenvolvimento Front - end. Também já aprendi várias coisas em cursos relacionados que fiz.
 </div>
+
+                                                                                                                                                
+
 <br/>
-
-
-                                                                                                                                         
+    <br/>                                                                                                                                     
                                                                                                                                       
 <div>
        <a href="https://www.instagram.com/lorena.nogueira.b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
