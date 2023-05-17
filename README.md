@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo(a) ao meu perfil.
 
-<img align="right" alt="o meu rosto" height="140" style="border-radius:50% 50% 50% 50%" src="https://scontent-gig2-1.xx.fbcdn.net/v/t39.30808-6/335070037_883578696274650_7011658285249860126_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGv8bMi5DF3Di26CD3FcwOVRvWDGpBfTURG9YMakF9NRCg8s7epIdPO5zOTqNNTnD0oFWEcYqHo06mSAbPDbLZM&_nc_ohc=BO9Anay1QvcAX9qYGCG&_nc_ht=scontent-gig2-1.xx&oh=00_AfBk-otDHnlPZlkwL_uVV92uifUdvXma2qxcJFO_lyZ2lA&oe=643CA683"/>
+<img align="right" alt="o meu rosto" height="140" style="border-radius:50% 50% 50% 50%" src="https://14hp17.csb.app/profile-pic.png"/>
 
 <div style="display: inline_block"><br>
   
