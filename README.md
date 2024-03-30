@@ -1,8 +1,8 @@
-# Olá! 👋 Meu nome é Lorena Nogueira.
+# Hi! 👋 I'm Lorena Nogueira.
 
-### Seja bem-vindo(a) ao meu perfil.
+### Welcome to my profile.
 
-<img align="right" alt="o meu rosto" height="140" style="border-radius:50% 50% 50% 50%" src="https://14hp17.csb.app/profile-pic.png"/>
+<img align="right" alt="o meu rosto" height="140" style="border-radius:50% 50% 50% 50%" src="https://yx36tn.csb.app/photoMiniMe-file/photo-me-character.png"/>
 
 <div style="display: inline_block"><br>
   
@@ -17,10 +17,8 @@
 
 <br/>
     <hr/>                          
-    <div>                                                                                                                                       
- Por enquanto, eu estou usando o GitHub para documentar a minha progressão como desenvolvedora.<br/>
-Os repositórios aqui são dos meus estudos e são de exercícios que eu já realizei. Planejo aprimorar cada um deles para que virem projetos bem completos, otimizados e limpos. Tenho um diploma de Técnica em Informática e estou matriculada num curso de Desenvolvimento Front - end. Também já aprendi várias coisas em cursos relacionados que fiz.
-</div>
+    <div>   The repositories here are from my studies and are from exercises that I have already performed in courses. I plan to improve each of them in the future, so that they become more structured, optimized and clean projects. I have a degree in IT Technique and have already taken courses related to Front - End Development. To find out more, visit my LinkedIn.                                                                                                                                    
+ </div>
 
                                                                                                                                                 
 
