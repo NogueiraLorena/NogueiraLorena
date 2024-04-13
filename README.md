@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Lorena Nogueira.
 
-### Welcome to my profile.
+### Welcome to my profile. ✌️
 
 <img align="right" alt="o meu rosto" height="140" style="border-radius:50% 50% 50% 50%" src="https://yx36tn.csb.app/photoMiniMe-file/photo-me-character.png"/>
 
